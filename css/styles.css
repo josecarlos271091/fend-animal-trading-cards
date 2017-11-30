@@ -1,0 +1,34 @@
+img{
+  padding-bottom: 10px;
+}
+
+ul{
+  padding-left: 1px;
+}
+.card{
+  width: 300px;
+  border-style: groove;
+  border-color: rgba(233,233,233,1);
+  border-radius: 5px;
+  box-shadow: 5px 5px 2px 2px rgba(233,233,233,1);
+  padding: 10px;
+
+}
+.description{
+  width: auto;
+  border-style: groove;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.interestingFacts{
+  font-style: italic;
+}
+
+.labelItens{
+  font-weight: bold;
+}
+
+.listItens{
+  list-style-type: none;
+}
